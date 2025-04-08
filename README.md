@@ -38,14 +38,14 @@ My pupose is to simplify the tech systems to be user friendly and efficient enou
 <details close>
 <summary><h2>🗂 Online Certificates</h2></summary>
     <div align="center">
-        <img src="/assets/certificates/VINCENTIUS_SELLO_Pandas.png" width=200 alt="VINCENTIUS SELLO - Pandas"/>
-        <img src="/assets/certificates/VINCENTIUS SELLO_Data_Cleaning.png" width=200 
+        <img src="./assets//VINCENTIUS_SELLO_Pandas.png" width=200 alt="VINCENTIUS SELLO - Pandas"/>
+        <img src="./assets/VINCENTIUS SELLO_Data_Cleaning.png" width=200 
         alt="VINCENTIUS SELLO - Data Cleaning"/>
-        <img src="/assets/certificates/VINCENTIUS_SELLO_Geospatial_Analysis.png" width=200 
+        <img src="./assets/VINCENTIUS_SELLO_Geospatial_Analysis.png" width=200 
         alt="VINCENTIUS SELLO Geospatial Analysis"/>
-        <img src="/assets/certificates/VINCENTIUS_SELLO_Intro_to_Machine_Learning.png" width=200 
+        <img src="./assets/VINCENTIUS_SELLO_Intro_to_Machine_Learning.png" width=200 
         alt="VINCENTIUS SELLO - Intro to Machine Learning"/>
-        <img src="/assets/certificates/VINCENTIUS_SELLO_Intermediate_Machine_Learning.png" width=200 
+        <img src="./assets/VINCENTIUS_SELLO_Intermediate_Machine_Learning.png" width=200 
         alt="VINCENTIUS SELLO - Intermediate Machine Learning"/>
     </div>
 </details>
@@ -59,10 +59,8 @@ My pupose is to simplify the tech systems to be user friendly and efficient enou
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vincentius474&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincentius474&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
 
 ## 🎯 What's Next?
 
