@@ -43,7 +43,7 @@ My pupose is to simplify the tech systems to be user friendly and efficient enou
         alt="VINCENTIUS SELLO - Data Cleaning"/>
         <img src="./assets/VINCENTIUS_SELLO_Geospatial_Analysis.png" width=200 
         alt="VINCENTIUS SELLO Geospatial Analysis"/>
-        <img src="./assets/VINCENTIUS_SELLO_Intro_to_Machine_Learning.png" width=200 
+        <img src="./assets/VINCENTIUS_SELLO_Intro_to_Machine Learning.png" width=200 
         alt="VINCENTIUS SELLO - Intro to Machine Learning"/>
         <img src="./assets/VINCENTIUS_SELLO_Intermediate_Machine_Learning.png" width=200 
         alt="VINCENTIUS SELLO - Intermediate Machine Learning"/>
