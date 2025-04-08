@@ -39,7 +39,7 @@ My pupose is to simplify the tech systems to be user friendly and efficient enou
 <summary><h2>🗂 Online Certificates</h2></summary>
     <div align="center">
         <img src="./assets//VINCENTIUS_SELLO_Pandas.png" width=200 alt="VINCENTIUS SELLO - Pandas"/>
-        <img src="./assets/VINCENTIUS SELLO_Data_Cleaning.png" width=200 
+        <img src="./assets/VINCENTIUS_SELLO_Data_Cleaning.png" width=200 
         alt="VINCENTIUS SELLO - Data Cleaning"/>
         <img src="./assets/VINCENTIUS_SELLO_Geospatial_Analysis.png" width=200 
         alt="VINCENTIUS SELLO Geospatial Analysis"/>
