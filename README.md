@@ -69,7 +69,6 @@ My pupose is to simplify the tech systems to be user friendly and efficient enou
 </div>
 
 - 🌍 **Open Source Contributions:** Planning to contribute to projects in the field of AI & ML
-- 📝 **Tech Writing:** Developing a series on modern web architecture patterns
 - 🏆 **Certifications:** Obtain AI & ML Certificates from Havard/Stanford (Online Courses)
 - 🚀 **Projects:** New projects on AI, ML and Data Engineering
 
