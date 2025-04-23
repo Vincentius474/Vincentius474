@@ -47,7 +47,7 @@ My pupose is to simplify the tech systems to be user friendly and efficient enou
         alt="VINCENTIUS SELLO - Intro to Machine Learning"/>
         <img src="./assets/VINCENTIUS_SELLO_Intermediate_Machine_Learning.png" width=200 
         alt="VINCENTIUS SELLO - Intermediate Machine Learning"/>
-        <img src="./assets/certificates/VINCENTIUS_SELLO_MOBILE_DEV.png" width=200 
+        <img src="./assets/VINCENTIUS_SELLO_MOBILE_DEV.png" width=200 
         alt="VINCENTIUS SELLO - MOBILE DEVELOPMENT"/>
     </div>
 </details>
