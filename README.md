@@ -40,6 +40,12 @@ My pupose is to simplify the tech systems to be user friendly and efficient enou
     <div align="center">
         <img src="./assets/RV_SELLO_CERTIFICATE_CS50AI.png" width=200 
         alt="CS50-IntroToAI"/>
+        <img src="./assets/RV_SELLO_PYTHON_ESSENTIALS_1.pdf" width=200 
+        alt="Python Essentials 1"/>
+        <img src="./assets/OpenCV Free OpenCV Bootcamp Certificate _ OpenCV.pdf" width=200 
+        alt="OpenCV Bootcamp"/>
+        <img src="./assets/RV_SELLO_INTRODUCTION_TO_DATA_SCIENCE.pdf" width=200 
+        alt="Intro Data Science"/>
         <img src="./assets/VINCENTIUS_SELLO_Pandas.png" width=200 alt="VINCENTIUS SELLO - Pandas"/>
         <img src="./assets/VINCENTIUS_SELLO_Data Cleaning.png" width=200 
         alt="VINCENTIUS SELLO - Data Cleaning"/>
