@@ -37,14 +37,11 @@ Eager to contribute to innovative teams and continuously grow in the fields of d
 <details close>
 <summary><h2>🗂 Online Certificates</h2></summary>
     <div align="center">
+        <li><a  href="./assets/RV_SELLO_PYTHON_ESSENTIALS_1.pdf">Python Essentials 1 Certificate</a></li>
+        <li><a  href="./assets/OpenCV Free OpenCV Bootcamp Certificate _ OpenCV.pdf">OpenCV Bootcamp Certificate</a></li>
+        <li><a  href="./assets/RV_SELLO_INTRODUCTION_TO_DATA_SCIENCE.pdf">Intro Data Science Certificate</a></li>
         <img src="./assets/RV_SELLO_CERTIFICATE_CS50AI.png" width=200 
         alt="CS50-IntroToAI"/>
-        <img src="./assets/RV_SELLO_PYTHON_ESSENTIALS_1.pdf" width=200 
-        alt="Python Essentials 1"/>
-        <img src="./assets/OpenCV Free OpenCV Bootcamp Certificate _ OpenCV.pdf" width=200 
-        alt="OpenCV Bootcamp"/>
-        <img src="./assets/RV_SELLO_INTRODUCTION_TO_DATA_SCIENCE.pdf" width=200 
-        alt="Intro Data Science"/>
         <img src="./assets/VINCENTIUS_SELLO_Pandas.png" width=200 alt="VINCENTIUS SELLO - Pandas"/>
         <img src="./assets/VINCENTIUS_SELLO_Data Cleaning.png" width=200 
         alt="VINCENTIUS SELLO - Data Cleaning"/>
