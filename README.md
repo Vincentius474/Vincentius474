@@ -23,16 +23,15 @@
 
 ## 👻 Who is Vincentius...  
 <p>
-I'm a software engineer, an emerging AI Engineer student @ the University Of Johannesburg and a Data Enthusiast.
-Still new to the industry, I've completed a couple of projects on Web Development,Software Engineering, Data Science & AI.
-I've completed some collaborations with other developers. 
+Hy there, I'm Vincent. I'm currently pursing a Bachelor of Science degree in Computer Science & Informatics With AI
+@ University of Johannesburg.
 </p>
 
 <p>
-I'm dedicated to build models which will ease every day tasks, so that people get to pursue their passions and goals.
-Most importantly, I get to play around with data, clean it, manipulate it, organize it and analyze it to find useful
-forms of patterns in it. I get to create software & application which improve how day to day duties are done.
-My pupose is to simplify the tech systems to be user friendly and efficient enough. 
+Aspiring Data Engineer and AI/ML Engineer with a strong foundation in data pipelines, machine learning algorithms, and cloud technologies. 
+Proficient in Python, SQL, and tools like Pandas, Scikit-learn, and TensorFlow. Passionate about transforming raw data into actionable 
+insights and building intelligent systems that solve real-world problems. 
+Eager to contribute to innovative teams and continuously grow in the fields of data engineering and artificial intelligence.
 </p>
 
 <details close>
