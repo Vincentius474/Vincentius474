@@ -39,6 +39,8 @@ Eager to contribute to innovative teams and continuously grow in the fields of d
     <div align="center">
         <img src="./assets/RV_SELLO_CERTIFICATE_CS50AI.png" width=200 
         alt="CS50-IntroToAI"/>
+        <img src="./assets/PyTorch Bootcamp Certificate _ OpenCV_RVSELLO.png" width=200 
+        alt="PyTorch Bootcamp"/>
         <img src="./assets/RV_SELLO_PYTHON_ESSENTIALS.png" width=200 
         alt="Python Essentials 1"/>
         <img src="./assets/RV_SELLO_OpenCV_Bootcamp.png" width=200 
